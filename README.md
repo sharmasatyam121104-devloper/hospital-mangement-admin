@@ -1,6 +1,3 @@
-Perfect! 😎 Tumhare **Admin panel** ke liye mai ek **professional, readable README** bana deta hoon. Ye **features, installation, API endpoints** aur usage instructions ke saath ready-to-paste hai.
-
----
 
 ````markdown
 # Prescripto Admin Panel  
